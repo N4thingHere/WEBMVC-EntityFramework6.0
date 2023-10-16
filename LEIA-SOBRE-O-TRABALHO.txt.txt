@@ -1,0 +1,15 @@
+Bom dia, tarde ou noite...
+
+O trabalho teve como objetivo gerenciar uma telefônica, onde temos verificações e cadastros, filtros e diferentes outros métodos para treinar o MVC Entity Framework.
+
+Gostaria de Desenvolver mais coisas... Como recuperação de senha, Enviar email STP, um Modal e relacionar as tabelas.
+
+Mais não consegui devido ao tempo e estudos, não havia só esse trabalho a ser feito!
+
+Espero compreensão, pois o trabalho está bem completo!
+Foram muitas horas de pesquisas, vídeos e etc...
+
+Trabalho Realizado:
+
+Leonardo Marzola Correia - 2 BCC T2
+João Victor - 2 BCC T2
