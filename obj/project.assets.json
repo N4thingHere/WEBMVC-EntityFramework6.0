@@ -2943,11 +2943,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Trabalhos\\CadastroDeContatos\\CadastroDeContatos\\CadastroDeContatos.csproj",
+      "projectUniqueName": "C:\\Users\\fireb\\Documents\\Ciências da Computação\\2 BCC\\Linguagem de programação\\NovoTrabalho\\WEBMVC-EntityFramework6.0\\WEBMVC-EntityFramework6.0\\CadastroDeContatos.csproj",
       "projectName": "CadastroDeContatos",
-      "projectPath": "C:\\Trabalhos\\CadastroDeContatos\\CadastroDeContatos\\CadastroDeContatos.csproj",
+      "projectPath": "C:\\Users\\fireb\\Documents\\Ciências da Computação\\2 BCC\\Linguagem de programação\\NovoTrabalho\\WEBMVC-EntityFramework6.0\\WEBMVC-EntityFramework6.0\\CadastroDeContatos.csproj",
       "packagesPath": "C:\\Users\\fireb\\.nuget\\packages\\",
-      "outputPath": "C:\\Trabalhos\\CadastroDeContatos\\CadastroDeContatos\\obj\\",
+      "outputPath": "C:\\Users\\fireb\\Documents\\Ciências da Computação\\2 BCC\\Linguagem de programação\\NovoTrabalho\\WEBMVC-EntityFramework6.0\\WEBMVC-EntityFramework6.0\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

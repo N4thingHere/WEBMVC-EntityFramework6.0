@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1ngrSMqSn7dUyZDs9QDJiroOOQNXtWy4YRIaA5pR2lTvTpav4D/vvOBjqM1DC9gMpH4kM6/gHpw9NjtgHIXb9w==",
+  "dgSpecHash": "LMkT9kgTxs/HZAG4tuVk9dMwApIPdt6sU1V15HAZ9Sak39vSGUuaG9JQgFeyrZJDgFDJblBW/499BK8mCjoIxA==",
   "success": true,
-  "projectFilePath": "C:\\Trabalhos\\CadastroDeContatos\\CadastroDeContatos\\CadastroDeContatos.csproj",
+  "projectFilePath": "C:\\Users\\fireb\\Documents\\Ciências da Computação\\2 BCC\\Linguagem de programação\\NovoTrabalho\\WEBMVC-EntityFramework6.0\\WEBMVC-EntityFramework6.0\\CadastroDeContatos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fireb\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\fireb\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
