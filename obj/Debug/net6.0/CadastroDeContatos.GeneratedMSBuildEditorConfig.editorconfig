@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\fireb\Documents\Ciências da Computação\2 BCC\Linguagem de programação\NovoTrabalho\WEBMVC-EntityFramework6.0\WEBMVC-EntityFramework6.0
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/fireb/Documents/Ciências da Computação/2 BCC/Linguagem de programação/NovoTrabalho/WEBMVC-EntityFramework6.0/WEBMVC-EntityFramework6.0/Views/AlterarSenha/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx0ZXJhclNlbmhhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/fireb/Documents/Ciências da Computação/2 BCC/Linguagem de programação/NovoTrabalho/WEBMVC-EntityFramework6.0/WEBMVC-EntityFramework6.0/Views/Contato/ApagarConfirmacao.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xBcGFnYXJDb25maXJtYWNhby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -42,6 +46,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/fireb/Documents/Ciências da Computação/2 BCC/Linguagem de programação/NovoTrabalho/WEBMVC-EntityFramework6.0/WEBMVC-EntityFramework6.0/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fireb/Documents/Ciências da Computação/2 BCC/Linguagem de programação/NovoTrabalho/WEBMVC-EntityFramework6.0/WEBMVC-EntityFramework6.0/Views/Login/RedefinirSenha.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cUmVkZWZpbmlyU2VuaGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/fireb/Documents/Ciências da Computação/2 BCC/Linguagem de programação/NovoTrabalho/WEBMVC-EntityFramework6.0/WEBMVC-EntityFramework6.0/Views/Restrito/Index.cshtml]
