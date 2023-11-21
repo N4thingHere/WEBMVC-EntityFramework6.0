@@ -174,3 +174,4 @@ C:\Users\fireb\Documents\Ciências da Computação\2 BCC\Linguagem de programaç
 C:\Users\fireb\Documents\Ciências da Computação\2 BCC\Linguagem de programação\NovoTrabalho\WEBMVC-EntityFramework6.0\WEBMVC-EntityFramework6.0\obj\Debug\net6.0\CadastroDeContatos.pdb
 C:\Users\fireb\Documents\Ciências da Computação\2 BCC\Linguagem de programação\NovoTrabalho\WEBMVC-EntityFramework6.0\WEBMVC-EntityFramework6.0\obj\Debug\net6.0\CadastroDeContatos.genruntimeconfig.cache
 C:\Users\fireb\Documents\Ciências da Computação\2 BCC\Linguagem de programação\NovoTrabalho\WEBMVC-EntityFramework6.0\WEBMVC-EntityFramework6.0\obj\Debug\net6.0\ref\CadastroDeContatos.dll
+C:\Users\fireb\Documents\Ciências da Computação\2 BCC\Linguagem de programação\NovoTrabalho\WEBMVC-EntityFramework6.0\WEBMVC-EntityFramework6.0\bin\Debug\net6.0\libman.json

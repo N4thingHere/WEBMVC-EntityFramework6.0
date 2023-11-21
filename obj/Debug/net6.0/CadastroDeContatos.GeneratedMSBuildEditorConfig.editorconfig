@@ -72,6 +72,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/fireb/Documents/Ciências da Computação/2 BCC/Linguagem de programação/NovoTrabalho/WEBMVC-EntityFramework6.0/WEBMVC-EntityFramework6.0/Views/Telefone/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsZWZvbmVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fireb/Documents/Ciências da Computação/2 BCC/Linguagem de programação/NovoTrabalho/WEBMVC-EntityFramework6.0/WEBMVC-EntityFramework6.0/Views/Telefone/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsZWZvbmVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fireb/Documents/Ciências da Computação/2 BCC/Linguagem de programação/NovoTrabalho/WEBMVC-EntityFramework6.0/WEBMVC-EntityFramework6.0/Views/Telefone/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsZWZvbmVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fireb/Documents/Ciências da Computação/2 BCC/Linguagem de programação/NovoTrabalho/WEBMVC-EntityFramework6.0/WEBMVC-EntityFramework6.0/Views/Telefone/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsZWZvbmVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fireb/Documents/Ciências da Computação/2 BCC/Linguagem de programação/NovoTrabalho/WEBMVC-EntityFramework6.0/WEBMVC-EntityFramework6.0/Views/Telefone/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsZWZvbmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/fireb/Documents/Ciências da Computação/2 BCC/Linguagem de programação/NovoTrabalho/WEBMVC-EntityFramework6.0/WEBMVC-EntityFramework6.0/Views/Usuario/ApagarConfirmacao.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xBcGFnYXJDb25maXJtYWNhby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -86,6 +106,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/fireb/Documents/Ciências da Computação/2 BCC/Linguagem de programação/NovoTrabalho/WEBMVC-EntityFramework6.0/WEBMVC-EntityFramework6.0/Views/Usuario/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fireb/Documents/Ciências da Computação/2 BCC/Linguagem de programação/NovoTrabalho/WEBMVC-EntityFramework6.0/WEBMVC-EntityFramework6.0/Views/Venda/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fireb/Documents/Ciências da Computação/2 BCC/Linguagem de programação/NovoTrabalho/WEBMVC-EntityFramework6.0/WEBMVC-EntityFramework6.0/Views/Venda/Index50.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGFcSW5kZXg1MC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/fireb/Documents/Ciências da Computação/2 BCC/Linguagem de programação/NovoTrabalho/WEBMVC-EntityFramework6.0/WEBMVC-EntityFramework6.0/Views/_ViewImports.cshtml]
